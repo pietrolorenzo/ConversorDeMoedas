@@ -4,5 +4,11 @@
 
 ## Aplicação desenvolvida para converter moedas em com valores atualizados constantementes, utilizando a Exchange Rate API. Nesse projeto foram utilizados principalmente os conceitos de Client, Request e API.
 
+### Pré requisitos
+  ``No linux``
+  - sudo apt install openjdk-21-jre
+
+
+
 
 
